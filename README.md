@@ -16,7 +16,7 @@
 
 - 📄 Deneyimlerim hakkında bilgi edinin [özgeçmiş bağlantısı](özgeçmiş bağlantısı)
 
-- ⚡ İlginç bilgi **Komik olduğumu düşünüyorum**
+- ⚡ İlginç bilgi **I feel ready to improve myself**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
