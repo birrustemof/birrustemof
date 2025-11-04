@@ -10,11 +10,9 @@
 
 - 🤝 **Proje adı** konusunda yardım arıyorum
 
-- 📝 Düzenli olarak [Laravel belki](Laravel belki) hakkında makaleler yazıyorum
+- 📝 Düzenli olarak [Laravel] hakkında makaleler yazıyorum
 
 - 📫 Bana nasıl ulaşabilirsiniz **zamanrustemov17@gmail.com**
-
-- 📄 Deneyimlerim hakkında bilgi edinin [özgeçmiş bağlantısı](özgeçmiş bağlantısı)
 
 - ⚡ İlginç bilgi **I feel ready to improve myself**
 
