@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Azərbaycandan'dan tutkulu bir ön uç geliştiricisi</h3>
 
 - 🔭 Şu anda **React** üzerinde çalışıyorum
 
