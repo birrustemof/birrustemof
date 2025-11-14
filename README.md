@@ -39,7 +39,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zaman rüstəmov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaman rüstəmov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaman rüstəmov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zaman rustemov" height="30" width="40" /></a>
 <a href="https://instagram.com/birrustemof_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birrustemof_" height="30" width="40" /></a>
 </p>
 
